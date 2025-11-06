@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Trump",
+    "age": 79,
+    "photo": "https://encrypted-tbn1.gstatic.com/licensed-image?q=tbn:ANd9GcTu-GSY_bXjggu92Go8I0Od4bEoIE-RnSuaCRmN5xcL4lfSDQI169Wyg5hK0VegSLUJjpqlG47veDZ33C0"
+  },
+  {
+    "name": "Jim",
+    "age": 63,
+    "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Jim_Carrey_2008.jpg/250px-Jim_Carrey_2008.jpg"
+  },
+  {
+    "name": "Kevin",
+    "age": 46,
+    "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUdgeEucYnnuC6ZPamEN58fKVs96GZs-KsmaU6lbSzsgvCdHylNsBEMdVzoI0-Sr6AlMkLfXOoKGE4DwaRMI7HsC4Udb1MOTIWd-mohw&s=10"
+  }
+]
